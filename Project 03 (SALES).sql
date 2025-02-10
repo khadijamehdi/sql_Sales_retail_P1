@@ -27,7 +27,7 @@ SELECT COUNT(*) FROM sales_retail;
 # firstly i imported the table with table import wizard option 
 # 2nd way, create a table and then insert values in it from first imported table
 -- ------------------------------------------------------------------------------------------------------------------
-# 3rd method, create a table then import data by table wizard option into it
+# 3rd way, create a table then import data by table wizard option into it
 
 
 CREATE TABLE Sales_Retail_02
