@@ -255,7 +255,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Run the Queries**: Use the SQL queries provided in the `Project 03 (SALES).sql` file to perform your analysis.
+2. **Run the Queries**: Use the SQL queries provided in the `Project (SALES).sql` file to perform your analysis.
 3. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Author - Khadija Mehdi
